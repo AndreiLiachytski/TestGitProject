@@ -3,6 +3,8 @@
 *.iml
 *.iws
 
+
 # Maven
 log/
 target/
+/lib/
